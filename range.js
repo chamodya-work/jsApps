@@ -14,7 +14,7 @@
 
       if (slide1 > slide2) {
 				[slide1, slide2] = [slide2, slide1];
-        // var tmp = slide2;
+        // var tmp = slide2 this is for checking the git code commmit is working or not;
         // slide2 = slide1;
         // slide1 = tmp;
       }
